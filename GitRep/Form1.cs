@@ -16,5 +16,10 @@ namespace GitRep
         {
             InitializeComponent();
         }
+
+         private void hola2()
+        {
+        }
+
     }
 }
